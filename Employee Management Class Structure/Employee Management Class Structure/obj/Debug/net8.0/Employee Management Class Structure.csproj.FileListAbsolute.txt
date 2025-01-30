@@ -1,0 +1,14 @@
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\bin\Debug\net8.0\Employee Management Class Structure.exe
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\bin\Debug\net8.0\Employee Management Class Structure.deps.json
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\bin\Debug\net8.0\Employee Management Class Structure.runtimeconfig.json
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\bin\Debug\net8.0\Employee Management Class Structure.dll
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\bin\Debug\net8.0\Employee Management Class Structure.pdb
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\obj\Debug\net8.0\Employee Management Class Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\obj\Debug\net8.0\Employee Management Class Structure.AssemblyInfoInputs.cache
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\obj\Debug\net8.0\Employee Management Class Structure.AssemblyInfo.cs
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\obj\Debug\net8.0\Employee Management Class Structure.csproj.CoreCompileInputs.cache
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\obj\Debug\net8.0\Employee Management Class Structure.dll
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\obj\Debug\net8.0\refint\Employee Management Class Structure.dll
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\obj\Debug\net8.0\Employee Management Class Structure.pdb
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\obj\Debug\net8.0\Employee Management Class Structure.genruntimeconfig.cache
+C:\Users\if0999762\source\repos\Employee Management Class Structure\Employee Management Class Structure\obj\Debug\net8.0\ref\Employee Management Class Structure.dll
