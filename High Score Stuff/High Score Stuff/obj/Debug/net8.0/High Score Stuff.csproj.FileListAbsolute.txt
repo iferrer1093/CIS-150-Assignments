@@ -1,0 +1,14 @@
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\bin\Debug\net8.0\High Score Stuff.exe
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\bin\Debug\net8.0\High Score Stuff.deps.json
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\bin\Debug\net8.0\High Score Stuff.runtimeconfig.json
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\bin\Debug\net8.0\High Score Stuff.dll
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\bin\Debug\net8.0\High Score Stuff.pdb
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\obj\Debug\net8.0\High Score Stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\obj\Debug\net8.0\High Score Stuff.AssemblyInfoInputs.cache
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\obj\Debug\net8.0\High Score Stuff.AssemblyInfo.cs
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\obj\Debug\net8.0\High Score Stuff.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\obj\Debug\net8.0\High Score Stuff.dll
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\obj\Debug\net8.0\refint\High Score Stuff.dll
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\obj\Debug\net8.0\High Score Stuff.pdb
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\obj\Debug\net8.0\High Score Stuff.genruntimeconfig.cache
+C:\Users\ninja\source\repos\High Score Stuff\High Score Stuff\obj\Debug\net8.0\ref\High Score Stuff.dll

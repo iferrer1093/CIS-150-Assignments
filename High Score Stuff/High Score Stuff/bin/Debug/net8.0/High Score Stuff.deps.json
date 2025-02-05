@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "High Score Stuff/1.0.0": {
+        "runtime": {
+          "High Score Stuff.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "High Score Stuff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
