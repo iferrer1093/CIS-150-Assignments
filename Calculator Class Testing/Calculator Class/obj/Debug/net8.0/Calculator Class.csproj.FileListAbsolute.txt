@@ -1,0 +1,14 @@
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\bin\Debug\net8.0\Calculator Class.exe
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\bin\Debug\net8.0\Calculator Class.deps.json
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\bin\Debug\net8.0\Calculator Class.runtimeconfig.json
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\bin\Debug\net8.0\Calculator Class.dll
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\bin\Debug\net8.0\Calculator Class.pdb
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\obj\Debug\net8.0\Calculator Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\obj\Debug\net8.0\Calculator Class.AssemblyInfoInputs.cache
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\obj\Debug\net8.0\Calculator Class.AssemblyInfo.cs
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\obj\Debug\net8.0\Calculator Class.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\obj\Debug\net8.0\Calculator Class.dll
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\obj\Debug\net8.0\refint\Calculator Class.dll
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\obj\Debug\net8.0\Calculator Class.pdb
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\obj\Debug\net8.0\Calculator Class.genruntimeconfig.cache
+C:\Users\ninja\source\repos\Calculator Class Testing\Calculator Class\obj\Debug\net8.0\ref\Calculator Class.dll
