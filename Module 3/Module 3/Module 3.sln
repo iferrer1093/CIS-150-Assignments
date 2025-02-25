@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module 3", "Module 3\Module 3.csproj", "{5FB3418C-3044-42FD-89C7-4E2EC33A924D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalTests", "AnimalTestClass\AnimalTests.csproj", "{EDD1AAE8-D424-4773-A1BD-6F423DD299F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB3418C-3044-42FD-89C7-4E2EC33A924D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB3418C-3044-42FD-89C7-4E2EC33A924D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB3418C-3044-42FD-89C7-4E2EC33A924D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB3418C-3044-42FD-89C7-4E2EC33A924D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD1AAE8-D424-4773-A1BD-6F423DD299F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD1AAE8-D424-4773-A1BD-6F423DD299F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD1AAE8-D424-4773-A1BD-6F423DD299F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD1AAE8-D424-4773-A1BD-6F423DD299F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF2147C9-4343-43ED-8FB2-A3AC2F882C9B}
+	EndGlobalSection
+EndGlobal

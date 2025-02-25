@@ -1,0 +1,14 @@
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\bin\Debug\net8.0\Module 3.exe
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\bin\Debug\net8.0\Module 3.deps.json
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\bin\Debug\net8.0\Module 3.runtimeconfig.json
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\bin\Debug\net8.0\Module 3.dll
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\bin\Debug\net8.0\Module 3.pdb
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\obj\Debug\net8.0\Module 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\obj\Debug\net8.0\Module 3.AssemblyInfoInputs.cache
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\obj\Debug\net8.0\Module 3.AssemblyInfo.cs
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\obj\Debug\net8.0\Module 3.csproj.CoreCompileInputs.cache
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\obj\Debug\net8.0\Module 3.dll
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\obj\Debug\net8.0\refint\Module 3.dll
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\obj\Debug\net8.0\Module 3.pdb
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\obj\Debug\net8.0\Module 3.genruntimeconfig.cache
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\Module 3\Module 3\obj\Debug\net8.0\ref\Module 3.dll
