@@ -1,0 +1,14 @@
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\bin\Debug\net8.0\Employee Management Project.exe
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\bin\Debug\net8.0\Employee Management Project.deps.json
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\bin\Debug\net8.0\Employee Management Project.runtimeconfig.json
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\bin\Debug\net8.0\Employee Management Project.dll
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\bin\Debug\net8.0\Employee Management Project.pdb
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\obj\Debug\net8.0\Employee Management Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\obj\Debug\net8.0\Employee Management Project.AssemblyInfoInputs.cache
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\obj\Debug\net8.0\Employee Management Project.AssemblyInfo.cs
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\obj\Debug\net8.0\Employee Management Project.csproj.CoreCompileInputs.cache
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\obj\Debug\net8.0\Employee Management Project.dll
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\obj\Debug\net8.0\refint\Employee Management Project.dll
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\obj\Debug\net8.0\Employee Management Project.pdb
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\obj\Debug\net8.0\Employee Management Project.genruntimeconfig.cache
+C:\Users\ninja\Downloads\Employee Management Project\Employee Management Project\obj\Debug\net8.0\ref\Employee Management Project.dll
