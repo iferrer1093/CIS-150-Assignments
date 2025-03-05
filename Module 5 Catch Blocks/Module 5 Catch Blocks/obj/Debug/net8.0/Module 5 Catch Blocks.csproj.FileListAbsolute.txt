@@ -1,0 +1,14 @@
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\bin\Debug\net8.0\Module 5 Catch Blocks.exe
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\bin\Debug\net8.0\Module 5 Catch Blocks.deps.json
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\bin\Debug\net8.0\Module 5 Catch Blocks.runtimeconfig.json
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\bin\Debug\net8.0\Module 5 Catch Blocks.dll
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\bin\Debug\net8.0\Module 5 Catch Blocks.pdb
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\obj\Debug\net8.0\Module 5 Catch Blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\obj\Debug\net8.0\Module 5 Catch Blocks.AssemblyInfoInputs.cache
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\obj\Debug\net8.0\Module 5 Catch Blocks.AssemblyInfo.cs
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\obj\Debug\net8.0\Module 5 Catch Blocks.csproj.CoreCompileInputs.cache
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\obj\Debug\net8.0\Module 5 Catch Blocks.dll
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\obj\Debug\net8.0\refint\Module 5 Catch Blocks.dll
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\obj\Debug\net8.0\Module 5 Catch Blocks.pdb
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\obj\Debug\net8.0\Module 5 Catch Blocks.genruntimeconfig.cache
+C:\Users\ninja\Downloads\Module 5 Catch Blocks\Module 5 Catch Blocks\obj\Debug\net8.0\ref\Module 5 Catch Blocks.dll
