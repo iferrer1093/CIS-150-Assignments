@@ -1,0 +1,4 @@
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\API Endpoint Calling\API Endpoint Calling\obj\Debug\net8.0\API Endpoint Calling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\API Endpoint Calling\API Endpoint Calling\obj\Debug\net8.0\API Endpoint Calling.AssemblyInfoInputs.cache
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\API Endpoint Calling\API Endpoint Calling\obj\Debug\net8.0\API Endpoint Calling.AssemblyInfo.cs
+C:\Users\if0999762\OneDrive - Ozarks Technical Community College\newsources\repos\CIS-150\API Endpoint Calling\API Endpoint Calling\obj\Debug\net8.0\API Endpoint Calling.csproj.CoreCompileInputs.cache
