@@ -1,0 +1,17 @@
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\bin\Debug\net8.0\PokeAPI Application.exe
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\bin\Debug\net8.0\PokeAPI Application.deps.json
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\bin\Debug\net8.0\PokeAPI Application.runtimeconfig.json
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\bin\Debug\net8.0\PokeAPI Application.dll
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\bin\Debug\net8.0\PokeAPI Application.pdb
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\PokeAPI Application.csproj.AssemblyReference.cache
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\PokeAPI Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\PokeAPI Application.AssemblyInfoInputs.cache
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\PokeAPI Application.AssemblyInfo.cs
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\PokeAPI Application.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\PokeAPI .DE7F85EC.Up2Date
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\PokeAPI Application.dll
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\refint\PokeAPI Application.dll
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\PokeAPI Application.pdb
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\PokeAPI Application.genruntimeconfig.cache
+C:\Users\ninja\source\repos\PokeAPI Application\PokeAPI Application\obj\Debug\net8.0\ref\PokeAPI Application.dll
