@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJG/PfVYZsk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ninja\\C# Stuff\\Conatct List\\Conatct List.Core\\Conatct List.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ninja\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ninja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

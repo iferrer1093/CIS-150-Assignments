@@ -1,0 +1,10 @@
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\bin\Debug\netstandard2.0\Conatct List.Core.deps.json
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\bin\Debug\netstandard2.0\Conatct List.Core.dll
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\bin\Debug\netstandard2.0\Conatct List.Core.pdb
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\obj\Debug\netstandard2.0\Conatct List.Core.csproj.AssemblyReference.cache
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\obj\Debug\netstandard2.0\Conatct List.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\obj\Debug\netstandard2.0\Conatct List.Core.AssemblyInfoInputs.cache
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\obj\Debug\netstandard2.0\Conatct List.Core.AssemblyInfo.cs
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\obj\Debug\netstandard2.0\Conatct List.Core.csproj.CoreCompileInputs.cache
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\obj\Debug\netstandard2.0\Conatct List.Core.dll
+C:\Users\ninja\C# Stuff\Conatct List\Conatct List.Core\obj\Debug\netstandard2.0\Conatct List.Core.pdb
