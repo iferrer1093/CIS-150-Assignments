@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Pokedex_Final": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

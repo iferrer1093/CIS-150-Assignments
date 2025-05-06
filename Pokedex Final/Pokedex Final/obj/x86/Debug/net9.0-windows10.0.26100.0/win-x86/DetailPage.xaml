@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Pokedex_Final.DetailPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pokedex_Final"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+            <ScrollViewer>
+                <StackPanel Padding="20">
+                    <TextBlock x:ConnectionId='2' x:Name="PokemonNameDetailTextBlock" FontSize="32" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                    <TextBlock Text="Evolution Chain:" Style="{StaticResource SubheaderTextBlockStyle}" Margin="0,20,0,10"/>
+                    <StackPanel x:ConnectionId='3' x:Name="EvolutionChainPanel"/>
+
+                    <Button x:ConnectionId='4' Content="Back to Main"                          Margin="0,30,0,0"/>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Page>
+
